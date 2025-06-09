@@ -1,4 +1,4 @@
-package Teste;
+package Jogo;
 
 import java.awt.Color;
 import java.time.*;
